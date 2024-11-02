@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蛤蟆先生去看心理医生~/Readme.md",
+                "file": "《也许 你该找个人聊聊》/Date.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Date"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蛤蟆先生去看心理医生~/Readme.md",
+                "file": "《也许 你该找个人聊聊》/Date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Readme 的反向链接列表"
+              "title": "Date 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "蛤蟆先生去看心理医生~/Readme.md",
+                "file": "《也许 你该找个人聊聊》/Date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Readme 的出链列表"
+              "title": "Date 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "蛤蟆先生去看心理医生~/Readme.md"
+                "file": "《也许 你该找个人聊聊》/Date.md"
               },
               "icon": "lucide-list",
-              "title": "Readme 的大纲"
+              "title": "Date 的大纲"
             }
           }
         ]
@@ -164,6 +164,12 @@
   },
   "active": "b2d6293924e2f6cd",
   "lastOpenFiles": [
-    "蛤蟆先生去看心理医生~/Readme.md"
+    "《也许 你该找个人聊聊》/Chapter 0.md",
+    "《也许 你该找个人聊聊》/Date.md",
+    "《也许 你该找个人聊聊》/Photo/序章.jpg",
+    "《也许 你该找个人聊聊》/Photo",
+    "《也许 你该找个人聊聊》/新建文件夹",
+    "蛤蟆先生去看心理医生~/Readme.md",
+    "《也许 你该找个人聊聊》"
   ]
 }
